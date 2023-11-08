@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Arithmetic and Geometric Sequence Calculator](https://www.calculator.io/arithmetic-geometric-sequence-calculator/ "Arithmetic and Geometric Sequence Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_arithmetic_geometric_sequence_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Arithmetic and Geometric Sequence Calculator to the sidebar through the `Appearance -> Widgets -> Arithmetic and Geometric Sequence Calculator` menu in WordPress.
+* Add the shortcode `[ci_arithmetic_geometric_sequence_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_arithmetic_geometric_sequence_calculator(); ?>` to your template where you would like the Arithmetic and Geometric Sequence Calculator to appear.
 
 == Screenshots ==
