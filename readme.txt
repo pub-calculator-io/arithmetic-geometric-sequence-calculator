@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Number sequence calculator to find the nth term of arithmetic, geometric, and Fibonacci sequences. The calculator also finds the sum of the terms of a sequence.
 
-== Description ==
-
-Number sequence calculator to find the nth term of arithmetic, geometric, and Fibonacci sequences. The calculator also finds the sum of the terms of a sequence.
-
 [https://www.calculator.io/arithmetic-geometric-sequence-calculator/](https://www.calculator.io/arithmetic-geometric-sequence-calculator/)
 
-__Arithmetic and Geometric Sequence Calculator Shortcode__
+== Usage ==
+
+Add the Arithmetic and Geometric Sequence Calculator shortcode to your page, post or sidebar:
 
 `[ci_arithmetic_geometric_sequence_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Arithmetic and Geometric Sequence Calculator to appear:
 
-1. Upload the /ci_arithmetic_geometric_sequence_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Arithmetic and Geometric Sequence Calculator](https://www.calculator.io/arithmetic-geometric-sequence-calculator/ "Arithmetic and Geometric Sequence Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Arithmetic and Geometric Sequence Calculator Usage ==
-
-* Add the shortcode `[ci_arithmetic_geometric_sequence_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_arithmetic_geometric_sequence_calculator(); ?>` to your template where you would like the Arithmetic and Geometric Sequence Calculator to appear.
+`<?php display_ci_arithmetic_geometric_sequence_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Arithmetic and Geometric Sequence Calculator Input Form.
 2. The Arithmetic and Geometric Sequence Calculator Calculation Results.
 
-== Libraries used in Arithmetic and Geometric Sequence Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Arithmetic and Geometric Sequence Calculator /ci_arithmetic_geometric_sequence_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Arithmetic and Geometric Sequence Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Arithmetic and Geometric Sequence Calculator
