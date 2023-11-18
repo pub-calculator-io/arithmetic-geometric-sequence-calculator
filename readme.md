@@ -1,4 +1,4 @@
-# Arithmetic and Geometric Sequence Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Arithmetic and Geometric Sequence Calculator Widget for WordPress
 
 Number sequence calculator to find the nth term of arithmetic, geometric, and Fibonacci sequences. The calculator also finds the sum of the terms of a sequence.
 
