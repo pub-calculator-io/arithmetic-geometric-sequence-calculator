@@ -1,4 +1,4 @@
-=== Arithmetic and Geometric Sequence Calculator by Calculator.iO ===
+=== Arithmetic and Geometric Sequence Calculator ===
 Contributors: calculatorio
 Tags: arithmetic sequence calculator, geometric sequence tool, find sequence sum, calculate series value, arithmetic progression calculator, geometric progression tool, nth term calculator, sequence solver online, arithmetic geometric calculator, sequence calculation
 Requires at least: 5.0
