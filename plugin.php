@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Arithmetic and Geometric Sequence Calculator by www.calculator.io
+Plugin Name: CI Arithmetic geometric sequence calculator
 Plugin URI: https://www.calculator.io/arithmetic-geometric-sequence-calculator/
 Description: Number sequence calculator to find the nth term of arithmetic, geometric, and Fibonacci sequences. The calculator also finds the sum of the terms of a sequence.
 Version: 1.0.0
