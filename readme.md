@@ -3,7 +3,6 @@
 Number sequence calculator to find the nth term of arithmetic, geometric, and Fibonacci sequences. The calculator also finds the sum of the terms of a sequence.
 
 ![Arithmetic and Geometric Sequence Calculator Input Form](/assets/images/screenshot-1.png "Arithmetic and Geometric Sequence Calculator Input Form")
-![Arithmetic and Geometric Sequence Calculator Calculation Results](/assets/images/screenshot-2.png "Arithmetic and Geometric Sequence Calculator Calculation Results")
 
 ## Installation
 

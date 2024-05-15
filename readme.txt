@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Arithmetic and 
 == Screenshots ==
 
 1. The Arithmetic and Geometric Sequence Calculator Input Form.
-2. The Arithmetic and Geometric Sequence Calculator Calculation Results.
 
 == Installation ==
 
